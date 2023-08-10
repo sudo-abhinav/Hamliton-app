@@ -1,0 +1,26 @@
+﻿body {
+    background: #a5b5c5;
+    background: lightblue !important;
+    /* margin-bottom: 60px; Margin bottom by footer height */
+}
+
+
+.box {
+    background: #CAD5E2;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    /*display:inline-flex;*/
+}
+
+.col-lg-3 .col-md-3 .col-xs-6 {
+}
+
+.card {
+background-color:transparent!important;
+display:flex;
+}
+
+.footercss {
+    /*position:fixed;*/
+    /*margin-top:100vh;*/
+}
